@@ -5,3 +5,5 @@ print("It's important value")
 p = 5 + 4
 g = int(input())
 jj = p
+
+#Удалить jj!
